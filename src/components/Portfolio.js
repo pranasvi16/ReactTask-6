@@ -30,10 +30,10 @@ export function Home() {
                 <h3 class="heading">Home</h3>
                 <table>
                     <tr>
-                        <td><h3 class="i1">Hi</h3>
-                            <h3 class="i1">I am Pavan</h3>
+                        <td><h3 class="i1">Helloooo..!!</h3>
+                            <h3 class="i1">I am Pranasvi</h3>
                             <h3 class="i1">Welcome to my portfolio website</h3>
-                            <h3 class="i1">Currently engaged in MERN fullstack internship by <a href="https://www.ethnus.com" target="blank">ethnus</a> and Cloud practitioner internship by <a href="https://aws.amazon.com/" target="blank">AWS</a></h3></td>
+                            <h3 class="i1"> MERN fullstack internship  <a href="https://www.ethnus.com" target="blank">ethnus</a> and Cloud practitioner internship by <a href="https://aws.amazon.com/" target="blank">AWS</a></h3></td>
                         {/* <td><img src={myimg} alt="My img"></img></td>  */}
                     </tr>
                 </table>
@@ -41,8 +41,7 @@ export function Home() {
             </div>
             <div ref={about} class="about">
                 <h3 className="heading">About me</h3>
-                <h4>Highly motivated and detail-oriented B.Tech graduate seeking a challenging position in
-                    the software engineering field. Offering a strong foundation in coding, along with a passion
+                <h4> Offering a strong foundation in coding, along with a passion
                     for artificial intelligence and machine learning. Committed to continuous learning and
                     professional growth, with a proven ability to adapt to new technologies and work
                     collaboratively in team environments.
@@ -62,15 +61,13 @@ export function Home() {
             <div ref={projects} class="projects">
                 <h3 class="heading">Projects done by me</h3>
                 <h4>➢ Voice control car using Arduino Uno.</h4>
-                <h4>➢ Smart pill box using the .</h4>
+                <h4>➢ </h4>
                 <h4>➢ Object detection using Arduino.</h4>
             </div>
             <div ref={contact} class="contact">
                 <h3 class="heading">Contact details</h3>
-                <h4>Email me at olvpavankumar@gmail.com</h4>
-                <h4>Contact Number 9989748184</h4>
-                <h4>My GitHub link <a href="https://github.com/OPavanKumar">It's here</a></h4>
-                <h4>Instagram Id @o.pavan1 </h4>
+                <h4>Email me at pranasvi16@gmail.com</h4>
+                <h4>Contact Number 987654321</h4>
             </div>
         </div>
     )
